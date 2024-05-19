@@ -6,6 +6,7 @@ build/
 
 # Ignore all files and subdirectories inside a folder
 NGXSProject/node_modules/
+node_modules/
 
 # Include a file that would otherwise be ignored (e.g., a configuration file)
 !config.json
